@@ -1,3 +1,6 @@
+> # As of PineconeRouter v4 this middleware was replaced by the [`x-templates`](https://github.com/rehhouari/pinecone-router/tree/main#x-template) feature that is now built-in.
+
+
 # Views Middleware for Pinecone Router
 
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/pinecone-router/middleware-views?color=%2337C8AB&label=version&sort=semver)](https://github.com/pinecone-router/middleware-views/tree/3.0.3)
@@ -10,7 +13,6 @@ A views middleware for [Pinecone Router](https://github.com/pinecone-router/rout
 
 ## About
 
-> ### As of PineconeRouter v4 this middleware was replaced by the [`x-templates`](https://github.com/pinecone-router/router/tree/main#x-template) feature that is now built-in.
 
 **This will only work with PineconeRouter v3**
 
